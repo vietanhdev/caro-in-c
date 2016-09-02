@@ -1,0 +1,4 @@
+build:
+	gcc -o exec_name input.c
+run:
+	./exec_name

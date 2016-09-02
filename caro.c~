@@ -1,0 +1,11 @@
+#include <stdio.h>
+int main(){
+    printf("CARO in C lang - v1.0 by vietanhdev\nvietanhdev.com\n");
+    int i, j;
+    for (i = 0; i < 25; i++) {
+        for (j = 0; j < 80; j++) {
+            printf(".");
+        }
+        printf("\n");
+    }
+}
